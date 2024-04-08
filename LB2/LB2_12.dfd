@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+11
+temperatura
+7
+0
+1
+16
+temperatura > 16
+7
+0
+1
+16
+temperatura < 10
+4
+1
+16
+'Clima Templado'
+13
+4
+1
+12
+'Clima Frio'
+13
+13
+7
+0
+1
+16
+temperatura > 24
+4
+1
+14
+'Clima Cálido'
+13
+4
+1
+16
+'Clima Tropical'
+13
+13
+1

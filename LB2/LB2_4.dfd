@@ -1,0 +1,36 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+25
+'Ingrese total de compra'
+5
+1
+5
+monto
+7
+0
+1
+12
+monto > 1000
+13
+4
+1
+15
+'Obtuvo oferta'
+6
+1
+5
+monto
+11
+monto * 0.8
+13
+4
+1
+24
+'Total a pagar: ', monto
+1
